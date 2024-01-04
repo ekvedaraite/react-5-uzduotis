@@ -19,7 +19,7 @@ body {
 #backgroundDiv {
   height: 100vh;
   width: 35vw;
-  background-image: url(public/background_img.avif);
+  background-image: url(public/images/background_img.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
